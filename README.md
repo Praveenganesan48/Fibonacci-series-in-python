@@ -1,2 +1,6 @@
 # Fibonacci-series-in-python
-  n = 10  a = 0 b = 1  print("Fibonacci Series:")  for i in range(n):     print(a, end=" ")     a, b = b, a + b# Fibonacci series up to n terms  n = 10  a = 0 b = 1  print("Fibonacci Series:")  for i in range(n):     print(a, end=" ")     a, b = b, a + b
+  n = 10  a = 0 b = 1  
+  print("Fibonacci Series:") 
+  for i in range(n):    
+  print(a, end=" ")     
+  a, b = b, a + b
